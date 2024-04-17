@@ -10,3 +10,5 @@ The 9 species are:
 - <img src="human_icon.png" alt="human_icon" width="32" style="inline" title="Human Icon"/> <a href="Human.md"/>
 - <img src="aquatilia_icon.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> <a href="Aquatilia.md"/>
 - <img src="feline_icon.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> <a href="Feline.md"/>
+- <img src="dwarf_icon.png" alt="dwarf_icon" width="32" style="inline" title="Dwarf Icon"/> <a href="Dwarf.md"/>
+- <img src="wolf_icon.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> <a href="Wolf.md"/>

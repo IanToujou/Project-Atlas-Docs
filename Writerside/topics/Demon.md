@@ -50,7 +50,7 @@ The passive abilities, buffs and debuffs, are listed in the table below.
 
 <chapter title="Subclasses"/>
 
-The demon class consists of two subclasses, that can be selected later on.
+The Demon class consists of two subclasses, that can be selected later on.
 
 <table>
     <tr>
