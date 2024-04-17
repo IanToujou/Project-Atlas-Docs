@@ -3,7 +3,17 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi" name="HyperSpecies Wiki"
-                 start-page="Installation.md">
-    <toc-element topic="Installation.md"/>
-    <toc-element topic="Configuration.md"/>
+                 start-page="Introduction.md">
+    <toc-element toc-title="Getting Started">
+        <toc-element topic="Introduction.md"/>
+        <toc-element topic="Installation.md"/>
+        <toc-element topic="Configuration.md"/>
+    </toc-element>
+    <toc-element toc-title="Species">
+        <toc-element topic="Species.md"/>
+        <toc-element topic="SubSpecies.md"/>
+    </toc-element>
+    <toc-element toc-title="Spells">
+        <toc-element topic="Elements.md"/>
+    </toc-element>
 </instance-profile>
