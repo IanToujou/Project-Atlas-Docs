@@ -1,6 +1,6 @@
 # Demon
 
-<img src="demon_icon.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> Demons can live almost everywhere on land, but they prefer to hide under the ground. They build huge fortresses to intimidate their foes. Demons are generally seen as evil and bad individuals.
+<img src="icon_demon.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> Demons can live almost everywhere on land, but they prefer to hide under the ground. They build huge fortresses to intimidate their foes. Demons are generally seen as evil and bad individuals.
 
 <chapter title="Active Abilities"/>
 
@@ -58,11 +58,11 @@ The Demon class consists of two subclasses, that can be selected later on.
         <td>Function</td>
     </tr>
     <tr>
-        <td><img src="demon_icon.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> Hellspawn</td>
+        <td><img src="icon_demon.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> Hellspawn</td>
         <td>AoE target damage abilities</td>
     </tr>
     <tr>
-        <td><img src="demon_icon.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> Fallen Angel</td>
+        <td><img src="icon_demon.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> Fallen Angel</td>
         <td>Single target damage abilities</td>
     </tr>
 </table>
