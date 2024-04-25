@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/HyperSpeciesDocs.iml" filepath="$PROJECT_DIR$/.idea/HyperSpeciesDocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectAtlasDocs.iml" filepath="$PROJECT_DIR$/.idea/ProjectAtlasDocs.iml" />
     </modules>
   </component>
 </project>
