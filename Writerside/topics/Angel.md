@@ -1,14 +1,15 @@
 # Angel
 
-<img src="icon_angel.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> Angels are the opposite of demons. They are associated with being good and helping other species, or at least people who worship them. Some angels though, are corrupted and they are evil, despite their good nature.
+<img src="icon_angel.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> Angels are the opposite of demons. They are associated with being good and helping other species, or at least people who worship them. Some angels though, are corrupted, and they are evil, despite their good nature.
 
 <chapter title="Active Abilities"/>
 
-Selecting the Angel class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/> section.
+Selecting the Angel class will grant you a variety of active abilities.
+You can find more details later on in the <a href="Elements.md"/>section.
 
 <chapter title="Passive Abilities"/>
 
-The passive abilities, buffs and debuffs, are listed in the table below.
+The passive abilities, buffs and debuffs are listed in the table below.
 
 <table>
     <tr>
@@ -50,7 +51,7 @@ The passive abilities, buffs and debuffs, are listed in the table below.
 
 <chapter title="Subclasses"/>
 
-The Angel class consists of two subclasses, that can be selected later on.
+The Angel class consists of two subclasses that can be selected later on.
 
 <table>
     <tr>

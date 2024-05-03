@@ -43,7 +43,7 @@ a system to increase performance when it comes to saving data. In fact, there ar
     will be done directly on the memory, instead of resorting to config files or databases. This increases the performance, a lot.
 </tab>
 <tab title="Database (Long-Term)">
-    The long term database, either a real database like MySQL or a simple .yml file, is never actually used to directly write data on. HyperSpecies will load
+    The long-term database, either a real database like MySQL or a simple .yml file, is never actually used to directly write data on. HyperSpecies will load
     all the necessary data into the in-memory database when the server starts. Furthermore, whenever a new player joins, their data will also be fetched
     from the long-term storage and saved into the in-memory database, if data is present.<br/>Additionally, this data will be saved periodically, when
     a player quits, or when the server is shutting down.
@@ -58,11 +58,13 @@ be loaded into the in-memory database when the plugin starts.
 <chapter title="Editing Data"/>
 
 <warning title="Safety Measures">
-    Only edit data directly if you know what you are doing. For safety measures, use ingame commands, such as <code>/setspecies</code> or <code>/reset</code> to edit individual
-    players.
+    Only edit data directly if you know what you are doing.
+    For safety measures, use in-game commands,
+    such as <code>/setspecies</code> or <code>/reset</code> to edit individual players.
 </warning>
 
-To manually edit data in a config file, make sure the server is off or make sure the player has not joined since the last server start, if you are editing
+To manually edit data in a config file,
+make sure the server is off or make sure the player has not joined since the last server-start if you are editing
 the data of an individual player.
 
 After editing, save the file and start the server again. In case you only edited a player that has not been loaded yet, you don't need to perform any additional

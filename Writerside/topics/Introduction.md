@@ -6,4 +6,4 @@ Welcome to HyperSpecies! Add tons of spells, weapons, elements and other feature
 
 <chapter title="What is HyperSpecies?"/>
 
-HyperSpecies is a Minecraft plugin which aims to redesign the whole experience in playing Minecraft.
+HyperSpecies is a Minecraft plugin that aims to redesign the whole experience of playing Minecraft.

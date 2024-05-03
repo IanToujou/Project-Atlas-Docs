@@ -32,7 +32,10 @@ Most <format color="Bisque"><img src="icon_light.png" alt="icon_light" style="in
 <format color="Gray"><img src="icon_dark.png" alt="icon_dark" style="inline" width="20" title="Dark Icon"/>Dark</format> is the counterpart to <format color="Bisque"><img src="icon_light.png" alt="icon_light" style="inline" width="20" title="Light Icon"/> Light</format> and was created along with it.
 
 The element of darkness is being held by the balance of <format color="Bisque"><img src="icon_light.png" alt="icon_light" style="inline" width="20" title="Light Icon"/>Light</format> and <format color="Gray"><img src="icon_dark.png" alt="icon_dark" style="inline" width="20" title="Dark Icon"/>Dark</format>.
-One might mistake darkness for a negative force, but in reality, darkness is just the absence of Light.
+One might mistake darkness for a negative force,
+but in reality,
+darkness is just the absence of <format color="Bisque"><img src="icon_light.png" alt="icon_light" style="inline" width="20" title="Light Icon"/>Light</format>.
+However, it is a power of its own and not just nothing.
 
 <format color="Gray"><img src="icon_dark.png" alt="icon_dark" style="inline" width="20" title="Dark Icon"/>Dark</format> abilities are as powerful as light abilities, dealing massive damage. However, instead of focusing on buffs, they focus on debuffs.
 
@@ -49,8 +52,8 @@ to be created was the architect of <format color="MediumPurple"><img src="icon_q
 protector of space.
 
 The foundation of the new world was space and time,
-and so the great architects created the element of space,
-<format color="MediumPurple"><img src="icon_quantum.png" alt="icon_quantum" style="inline" width="20" title="Quantum Icon"/>Quantum</format> and the element of time,
+and so the great architects created the element of space:
+<format color="MediumPurple"><img src="icon_quantum.png" alt="icon_quantum" style="inline" width="20" title="Quantum Icon"/>Quantum</format> and the element of time:
 <format color="MediumAquamarine"><img src="icon_chrono.png" alt="icon_chrono" style="inline" width="20" title="Chrono Icon"/>Chrono </format>.
 The new world needed space to hold any potential creations of the great architects.
 
@@ -125,7 +128,9 @@ to cast <format color="IndianRed"><img src="icon_fire.png" alt="icon_fire" style
 
 The new world created by the architects was full of dynamics, but it lacked life.
 And so they created the <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format> element along with its architect.
-The new element finally brought life to the new world, and all kinds of species started to live in it. <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/> Flora</format> itself has the energy to create live out of dead matter, but only one being, the architect of <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/> Flora</format>, has the power to imbue the lifeless with life.
+The new element finally brought life to the new world, and all kinds of species started to live in it.
+<format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/> Flora</format> itself has the energy to create live out of dead matter, but only one being,
+the architect of <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format>, has the power to imbue the lifeless with life.
 
 Abilities that use the <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format> element are often imbued with life and healing capabilities.
 However, the destructive power of nature should never be underestimated.

@@ -1,14 +1,14 @@
 # Reptile
 
-<img src="icon_reptile.png" alt="reptile_icon" width="32" style="inline" title="Reptile Icon"/> Reptiles are commonly found near water or in the desert, depending on the subclass. They are agile and very specialized on their environment. Reptiles rest in caves, but they need the sunlight to gain energy.
+<img src="icon_reptile.png" alt="reptile_icon" width="32" style="inline" title="Reptile Icon"/> Reptiles are commonly found near water or in the desert, depending on the subclass. They are agile and very specialized in their environment. Reptiles rest in caves, but they need the sunlight to gain energy.
 
 <chapter title="Active Abilities"/>
 
-Selecting the Reptile class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/> section.
+Selecting the Reptile class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/>section.
 
 <chapter title="Passive Abilities"/>
 
-The passive abilities, buffs and debuffs, are listed in the table below.
+The passive abilities, buffs and debuffs are listed in the table below.
 
 <table>
     <tr>
@@ -50,7 +50,7 @@ The passive abilities, buffs and debuffs, are listed in the table below.
 
 <chapter title="Subclasses"/>
 
-The Reptile class consists of two subclasses, that can be selected later on.
+The Reptile class consists of two subclasses that can be selected later on.
 
 <table>
     <tr>

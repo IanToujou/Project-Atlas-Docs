@@ -52,6 +52,6 @@ to install Hyper Species onto your server.
 </procedure>
     
 <warning title="Server Reloads">
-    We recommend to <b>always</b> restart the server completely, to avoid bugs. Normally, a reload will do the job,
-    but we highly advice against it, especially if there are more than 10 players online.
+    We recommend <b>always</b> restarting the server completely, to avoid bugs. Normally, a reload will do the job,
+    but we highly advise against it, especially if there are more than 10 players online.
 </warning>

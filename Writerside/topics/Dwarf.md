@@ -4,11 +4,11 @@
 
 <chapter title="Active Abilities"/>
 
-Selecting the Dwarf class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/> section.
+Selecting the Dwarf class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/>section.
 
 <chapter title="Passive Abilities"/>
 
-The passive abilities, buffs and debuffs, are listed in the table below.
+The passive abilities, buffs and debuffs are listed in the table below.
 
 <table>
     <tr>
@@ -50,7 +50,7 @@ The passive abilities, buffs and debuffs, are listed in the table below.
 
 <chapter title="Subclasses"/>
 
-The Dwarf class consists of two subclasses, that can be selected later on.
+The Dwarf class consists of two subclasses that can be selected later on.
 
 <table>
     <tr>

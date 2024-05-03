@@ -1,14 +1,14 @@
 # Elf
 
-<img src="icon_elf.png" alt="elf_icon" width="32" style="inline" title="Elf Icon"/> Elves live deep within the woods. They are specialized on support and healing abilities and they are a species with many secrets. Because of that, they tend to hide from other species, especially humans.
+<img src="icon_elf.png" alt="elf_icon" width="32" style="inline" title="Elf Icon"/> Elves live deep within the woods. They are specialized in support and healing abilities, and they are a species with many secrets. Because of that, they tend to hide from other species, especially humans.
 
 <chapter title="Active Abilities"/>
 
-Selecting the Elf class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/> section.
+Selecting the Elf class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/>section.
 
 <chapter title="Passive Abilities"/>
 
-The passive abilities, buffs and debuffs, are listed in the table below.
+The passive abilities, buffs and debuffs are listed in the table below.
 
 <table>
     <tr>
@@ -50,7 +50,7 @@ The passive abilities, buffs and debuffs, are listed in the table below.
 
 <chapter title="Subclasses"/>
 
-The Elf class consists of two subclasses, that can be selected later on.
+The Elf class consists of two subclasses that can be selected later on.
 
 <table>
     <tr>

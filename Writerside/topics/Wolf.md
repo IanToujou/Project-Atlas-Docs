@@ -4,11 +4,11 @@
 
 <chapter title="Active Abilities"/>
 
-Selecting the Wolf class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/> section.
+Selecting the Wolf class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/>section.
 
 <chapter title="Passive Abilities"/>
 
-The passive abilities, buffs and debuffs, are listed in the table below.
+The passive abilities, buffs and debuffs are listed in the table below.
 
 <table>
     <tr>
@@ -55,7 +55,7 @@ The passive abilities, buffs and debuffs, are listed in the table below.
 
 <chapter title="Subclasses"/>
 
-The Wolf class consists of two subclasses, that can be selected later on.
+The Wolf class consists of two subclasses that can be selected later on.
 
 <table>
     <tr>
@@ -68,6 +68,6 @@ The Wolf class consists of two subclasses, that can be selected later on.
     </tr>
     <tr>
         <td><img src="icon_wolf.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> Forest Wolf</td>
-        <td>Life-steal abilities</td>
+        <td>Life-stealing abilities</td>
     </tr>
 </table>

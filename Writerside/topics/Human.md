@@ -4,7 +4,7 @@
 
 <chapter title="Active Abilities"/>
 
-Selecting the Human class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/> section.
+Selecting the Human class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/>section.
 
 <chapter title="Passive Abilities"/>
 
@@ -12,7 +12,7 @@ The Human class does not have any passive abilities.
 
 <chapter title="Subclasses"/>
 
-The Human class consists of two subclasses, that can be selected later on.
+The Human class consists of two subclasses that can be selected later on.
 
 <table>
     <tr>

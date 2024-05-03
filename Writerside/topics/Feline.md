@@ -1,14 +1,14 @@
 # Feline
 
-<img src="icon_feline.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Feline creatures are known for their agility and ability to overcome obstacles. Felines live within their group, and it’s rare to see one with other species. They are not alone most of the time and fight together.
+<img src="icon_feline.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Feline creatures are known for their agility and the ability to overcome obstacles. Felines live within their group, and it’s rare to see one with other species. They are not alone most of the time and fight together.
 
 <chapter title="Active Abilities"/>
 
-Selecting the Feline class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/> section.
+Selecting the Feline class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/>section.
 
 <chapter title="Passive Abilities"/>
 
-The passive abilities, buffs and debuffs, are listed in the table below.
+The passive abilities, buffs and debuffs are listed in the table below.
 
 <table>
     <tr>
@@ -50,7 +50,7 @@ The passive abilities, buffs and debuffs, are listed in the table below.
 
 <chapter title="Subclasses"/>
 
-The Feline class consists of two subclasses, that can be selected later on.
+The Feline class consists of two subclasses that can be selected later on.
 
 <table>
     <tr>
