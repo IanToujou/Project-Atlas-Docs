@@ -54,7 +54,7 @@ protector of space.
 The foundation of the new world was space and time,
 and so the great architects created the element of space:
 <format color="MediumPurple"><img src="icon_quantum.png" alt="icon_quantum" style="inline" width="20" title="Quantum Icon"/>Quantum</format> and the element of time:
-<format color="MediumAquamarine"><img src="icon_chrono.png" alt="icon_chrono" style="inline" width="20" title="Chrono Icon"/>Chrono </format>.
+<format color="MediumAquamarine"><img src="icon_chrono.png" alt="icon_chrono" style="inline" width="20" title="Chrono Icon"/>Chrono</format>.
 The new world needed space to hold any potential creations of the great architects.
 
 Abilities of space are very rare, and only a few gifted talents may wield their powers.
@@ -82,6 +82,18 @@ Before <format color="MediumAquamarine"><img src="icon_chrono.png" alt="icon_chr
 
 > <i>The earth is what we all have in common. ~ Wendell Berry</i>
 
+The first element
+to be created after the <b>Pillars of Existence</b> was <format color="Peru"><img src="icon_earth.png" alt="icon_earth" style="inline" width="20" title="Earth Icon"/>Earth</format>.
+The new world needs to hold itself together, and that's why the great architects created this new architect.
+
+<format color="Peru"><img src="icon_earth.png" alt="icon_earth" style="inline" width="20" title="Earth Icon"/>Earth</format> is the very element of which most matter is made.
+Without <format color="Peru"><img src="icon_earth.png" alt="icon_earth" style="inline" width="20" title="Earth Icon"/>Earth</format>, there is only emptiness in the vast universe.
+From the finest sand to the hardest minerals,
+this element is abundant in every planet, and its colossal power should never be underestimated.
+
+Abilities that are infused with <format color="Peru"><img src="icon_earth.png" alt="icon_earth" style="inline" width="20" title="Earth Icon"/>Earth</format> are mostly defensive.
+However, the colossal forces created by rocks can output quite the damage.
+
 </chapter>
 
 <chapter title="Air">
@@ -89,6 +101,15 @@ Before <format color="MediumAquamarine"><img src="icon_chrono.png" alt="icon_chr
 <img src="title_air.png" alt="title_air" height="128" title="Air Title"/>
 
 > <i>Still, like air, I rise ~ Maya Angelou</i>
+
+<format color="LightBlue"><img src="icon_air.png" alt="icon_air" style="inline" width="20" title="Air Icon"/>Air</format> is the element that holds the force of the atmosphere and wind.
+
+Floating rocks in space are cool and everything, but there is no movement on the surface.
+And so the architect of <format color="LightBlue"><img src="icon_air.png" alt="icon_air" style="inline" width="20" title="Air Icon"/>Air</format> was created,
+to fill the gap between planets and empty space.
+This air should serve as a border and contrast the ground and the sky.
+
+<format color="LightBlue"><img src="icon_air.png" alt="icon_air" style="inline" width="20" title="Air Icon"/>Air</format> abilities focus on movement, attracting and repelling objects.
 
 </chapter>
 
@@ -116,6 +137,18 @@ to cast <format color="IndianRed"><img src="icon_fire.png" alt="icon_fire" style
 
 > <i>Be like water, my friend. ~ Bruce Lee</i>
 
+<format color="Aqua"><img src="icon_water.png" alt="icon_water" style="inline" width="20" title="Water Icon"/>Water</format> is the basic element from which all life is made.
+As much as <format color="IndianRed"><img src="icon_fire.png" alt="icon_fire" style="inline" width="20" title="Fire Icon"/> Fire</format> is the element of destruction. <format color="Aqua"><img src="icon_water.png" alt="icon_water" style="inline" width="20" title="Water Icon"/> Water</format> is the element of creation.
+
+Now that a destructive force,
+the <format color="IndianRed"><img src="icon_fire.png" alt="icon_fire" style="inline" width="20" title="Fire Icon"/>Fire</format> element,
+flows through the new world,
+the architects created a force of the opposite: Creation.
+They created the element of <format color="Aqua"><img src="icon_water.png" alt="icon_water" style="inline" width="20" title="Water Icon"/>Water</format>,
+capable of constructing life.
+
+<format color="Aqua"><img src="icon_water.png" alt="icon_water" style="inline" width="20" title="Water Icon"/>Water</format> abilities focus on healing and buffs, although some of them also do damage.
+
 </chapter>
 
 <chapter title="Flora">
@@ -129,7 +162,7 @@ to cast <format color="IndianRed"><img src="icon_fire.png" alt="icon_fire" style
 The new world created by the architects was full of dynamics, but it lacked life.
 And so they created the <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format> element along with its architect.
 The new element finally brought life to the new world, and all kinds of species started to live in it.
-<format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/> Flora</format> itself has the energy to create live out of dead matter, but only one being,
+<format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format> itself has the energy to create live out of dead matter, but only one being,
 the architect of <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format>, has the power to imbue the lifeless with life.
 
 Abilities that use the <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format> element are often imbued with life and healing capabilities.
@@ -143,6 +176,15 @@ However, the destructive power of nature should never be underestimated.
 
 > <i>Those who don't believe in magic will never find it. ~ Roald Dahl</i>
 
+<format color="DeepPink"><img src="icon_fairy.png" alt="icon_fairy" style="inline" width="20" title="Fairy Icon"/>Fairy</format> is the element of magic itself. It is an extension of the <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format> element.
+
+The <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format> architect got bored with the element alone
+and asked the great architects
+to create an additional element to <format color="GreenYellow"><img src="icon_flora.png" alt="icon_flora" style="inline" width="20" title="Flora Icon"/>Flora</format>.
+They created the architect of <format color="DeepPink"><img src="icon_fairy.png" alt="icon_fairy" style="inline" width="20" title="Fairy Icon"/>Fairy</format>, that should imbue magic into the creatures on the world.
+
+The Abilities of the <format color="DeepPink"><img src="icon_fairy.png" alt="icon_fairy" style="inline" width="20" title="Fairy Icon"/>Fairy</format> element provide strong buffs and even stronger healing capabilities.
+
 </chapter>
 
 <chapter title="Psychic">
@@ -150,6 +192,17 @@ However, the destructive power of nature should never be underestimated.
 <img src="title_psychic.png" alt="title_psychic" height="128" title="Psychic Title"/>
 
 > <i>Happiness in intelligent people is the rarest thing I know. ~ Ernest Hemingway</i>
+
+<format color="SlateBlue"><img src="icon_psychic.png" alt="icon_psychic" style="inline" width="20" title="Psychic Icon"/>Psychic</format> is the element of that, which exists beyond the material form.
+
+The mind of the living was too empty, the architects thought.
+And so they created something beyond the material existence.
+And thus,
+the <format color="SlateBlue"><img src="icon_psychic.png" alt="icon_psychic" style="inline" width="20" title="Psychic Icon"/>Psychic</format> architect was born.
+Between the architects, small wars broke out.
+These battles, however, were not fought with the flesh, but rather with their minds.
+
+<format color="SlateBlue"><img src="icon_psychic.png" alt="icon_psychic" style="inline" width="20" title="Psychic Icon"/>Psychic</format> abilities are not yet fully understood, but they provide buffs and debuffs to a creature's mind.
 
 </chapter>
 
@@ -159,6 +212,15 @@ However, the destructive power of nature should never be underestimated.
 
 > <i>If your hate could be turned into electricity, it would light up the whole world. ~ Nikola Tesla</i>
 
+<format color="Yellow"><img src="icon_electro.png" alt="icon_electro" style="inline" width="20" title="Electro Icon"/>Electro</format> is the element of a very powerful natural force that flows through the sky and earth.
+
+<format color="Yellow"><img src="icon_electro.png" alt="icon_electro" style="inline" width="20" title="Electro Icon"/>Electro</format> was not created because of a mere idea of the great architects.
+The architect of electro was created without any power from above,
+but rather by the interactions between the living and the dead.
+
+Abilities with the element of <format color="Yellow"><img src="icon_electro.png" alt="icon_electro" style="inline" width="20" title="Electro Icon"/>Electro</format> are generally known
+to buff users or to stun enemies.
+
 </chapter>
 
 <chapter title="Normal">
@@ -166,5 +228,13 @@ However, the destructive power of nature should never be underestimated.
 <img src="title_normal.png" alt="title_normal" height="128" title="Normal Title"/>
 
 > <i>Normality is a fine ideal for those who have no imagination. ~ Carl Jung</i>
+
+<format color="LightSlateGray"><img src="icon_normal.png" alt="icon_normal" style="inline" width="20" title="Normal Icon"/>Normal</format> is the element of neutrality. It is not nothing, nor everything mixed. It is a line between all the elements, and it can take all shapes and forms.
+
+The architects needed something perfectly neutral and equal to be created.
+An element to fill the void and blur the lines between forces.
+They created the architect of <format color="LightSlateGray"><img src="icon_normal.png" alt="icon_normal" style="inline" width="20" title="Normal Icon"/>Normal</format>.
+
+<format color="LightSlateGray"><img src="icon_normal.png" alt="icon_normal" style="inline" width="20" title="Normal Icon"/>Normal</format> abilities come in all variations; some do damage, some do not.
 
 </chapter>

@@ -2,8 +2,8 @@
 
 Looking for a way to make your Minecraft SMP experience a bit more... <i>interesting</i>?
 
-Welcome to HyperSpecies! Add tons of spells, weapons, elements and other features to the game!
+Welcome to Project Atlas! Add tons of spells, weapons, elements and other features to the game!
 
-<chapter title="What is HyperSpecies?"/>
+<chapter title="What is Project Atlas?"/>
 
-HyperSpecies is a Minecraft plugin that aims to redesign the whole experience of playing Minecraft.
+Project Atlas is a Minecraft plugin that aims to redesign the whole experience of playing Minecraft.

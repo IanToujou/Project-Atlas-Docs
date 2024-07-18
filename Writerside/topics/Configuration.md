@@ -2,8 +2,9 @@
 
 <chapter title="Overview"/>
 
-HyperSpecies has a range of different configuration files. All the files are located in the <code>plugins/HyperSpecies/config/</code> folder.
-However, data is stored in the <code>plugins/HyperSpecies/data/</code>.
+Project Atlas has a range of different configuration files.
+All the files are located in the <code>plugins/ProjectAtlas/config/</code> folder.
+However, data is stored in the <code>plugins/ProjectAtlas/data/</code>.
 
 <table>
     <tr>
@@ -34,7 +35,7 @@ However, data is stored in the <code>plugins/HyperSpecies/data/</code>.
 
 <chapter title="Saving Data"/>
 
-Manually editing or messing with saved data is a bit different. In most cases, overwriting the data in the storage will not work because HyperSpecies uses
+Manually editing or messing with saved data is a bit different. In most cases, overwriting the data in the storage will not work because Project Atlas uses
 a system to increase performance when it comes to saving data. In fact, there are two storages that are being used.
 
 <tabs>
@@ -43,7 +44,7 @@ a system to increase performance when it comes to saving data. In fact, there ar
     will be done directly on the memory, instead of resorting to config files or databases. This increases the performance, a lot.
 </tab>
 <tab title="Database (Long-Term)">
-    The long-term database, either a real database like MySQL or a simple .yml file, is never actually used to directly write data on. HyperSpecies will load
+    The long-term database, either a real database like MySQL or a simple .yml file, is never actually used to directly write data on. Project Atlas will load
     all the necessary data into the in-memory database when the server starts. Furthermore, whenever a new player joins, their data will also be fetched
     from the long-term storage and saved into the in-memory database, if data is present.<br/>Additionally, this data will be saved periodically, when
     a player quits, or when the server is shutting down.
@@ -52,7 +53,7 @@ a system to increase performance when it comes to saving data. In fact, there ar
 
 <chapter title="Editing the Config"/>
 
-HyperSpecies will never overwrite any configuration field, which means you only need to edit the config file(s) and restart the server. All the values will
+Project Atlas will never overwrite any configuration field, which means you only need to edit the config file(s) and restart the server. All the values will
 be loaded into the in-memory database when the plugin starts.
 
 <chapter title="Editing Data"/>

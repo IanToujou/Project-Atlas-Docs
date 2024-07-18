@@ -1,6 +1,6 @@
 # Introduction
 
-HyperSpecies currently features nine different species.
+Project Atlas currently features nine different species.
 The species are divided into two categories: Animal-Like and Human-Like.
 
 The nine species are:
