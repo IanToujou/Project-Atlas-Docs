@@ -19,7 +19,7 @@ The passive abilities, buffs and debuffs are listed in the table below.
     <tr>
         <td>✅ Buff</td>
         <td>Demonic Skin</td>
-        <td>Permanent fire-resistance</td>
+        <td>Permanent fire resistance</td>
     </tr>
     <tr>
         <td>✅ Buff</td>
@@ -29,17 +29,12 @@ The passive abilities, buffs and debuffs are listed in the table below.
     <tr>
         <td>✅ Buff</td>
         <td>Red Surge</td>
-        <td>Strength (II) on netherrack</td>
+        <td>Strength (I) on netherrack</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
         <td>/</td>
-        <td>Weakness (I) & Slowness (II) in water</td>
-    </tr>
-    <tr>
-        <td>❌ Debuff</td>
-        <td>/</td>
-        <td>Takes damage in direct sunlight</td>
+        <td><img src="icon_weakness.png" alt="weakness_icon" width="32" style="inline" title="Weakness"/> Weakness (I), <img src="icon_mining_fatigue.png" alt="mining_fatigue_icon" width="32" style="inline" title="Mining Fatigue"/> mining fatigue (II) & <img src="icon_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (II) in water</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
