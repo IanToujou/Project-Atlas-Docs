@@ -1,6 +1,6 @@
 # Dwarf
 
-<img src="icon_dwarf.png" alt="dwarf_icon" width="32" style="inline" title="Dwarf Icon"/> Dwarfs are a small and hard-drinking race that shines with their underground architecture and smith-work. They are known to be found happily sipping alcohol in a bar or deep in their mines, always digging for resources.
+<img src="item_raw_gold.png" alt="dwarf_icon" width="32" style="inline" title="Dwarf Icon"/> Dwarfs are a small and hard-drinking race that shines with their underground architecture and smith-work. They are known to be found happily sipping alcohol in a bar or deep in their mines, always digging for resources.
 
 <chapter title="Active Abilities"/>
 
@@ -58,11 +58,11 @@ The Dwarf class consists of two subclasses that can be selected later on.
         <td>Function</td>
     </tr>
     <tr>
-        <td><img src="icon_dwarf.png" alt="dwarf_icon" width="32" style="inline" title="Dwarf Icon"/> Cartographer</td>
+        <td><img src="item_raw_gold.png" alt="dwarf_icon" width="32" style="inline" title="Dwarf Icon"/> Cartographer</td>
         <td>Speed & agility abilities</td>
     </tr>
     <tr>
-        <td><img src="icon_dwarf.png" alt="dwarf_icon" width="32" style="inline" title="Dwarf Icon"/> Blacksmith</td>
+        <td><img src="item_raw_gold.png" alt="dwarf_icon" width="32" style="inline" title="Dwarf Icon"/> Blacksmith</td>
         <td>Fighting buff abilities</td>
     </tr>
 </table>

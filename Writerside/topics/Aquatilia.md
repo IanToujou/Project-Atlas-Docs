@@ -1,6 +1,6 @@
 # Aquatilia
 
-<img src="icon_aquatilia.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> Aquatilia is a species that only lives under the sea. They go very rarely on land, mostly because they cannot survive on it without certain conditions. Aquatilia are more closed off to other species due to their environment.
+<img src="item_heart_of_the_sea.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> Aquatilia is a species that only lives under the sea. They go very rarely on land, mostly because they cannot survive on it without certain conditions. Aquatilia are more closed off to other species due to their environment.
 
 <chapter title="Active Abilities"/>
 
@@ -54,11 +54,11 @@ The Aquatilia class consists of two subclasses that can be selected later on.
         <td>Function</td>
     </tr>
     <tr>
-        <td><img src="icon_aquatilia.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> Hydra</td>
+        <td><img src="item_heart_of_the_sea.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> Hydra</td>
         <td>Speed & agility abilities</td>
     </tr>
     <tr>
-        <td><img src="icon_aquatilia.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> Siren</td>
+        <td><img src="item_heart_of_the_sea.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> Siren</td>
         <td>Tank & defense abilities</td>
     </tr>
 </table>

@@ -1,6 +1,6 @@
 # Angel
 
-<img src="icon_angel.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> Angels are the opposite of demons. They are associated with being good and helping other species, or at least people who worship them. Some angels though, are corrupted, and they are evil, despite their good nature.
+<img src="item_totem_of_undying.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> Angels are the opposite of demons. They are associated with being good and helping other species, or at least people who worship them. Some angels though, are corrupted, and they are evil, despite their good nature.
 
 <chapter title="Active Abilities"/>
 
@@ -59,11 +59,11 @@ The Angel class consists of two subclasses that can be selected later on.
         <td>Function</td>
     </tr>
     <tr>
-        <td><img src="icon_angel.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> Arch Angel</td>
+        <td><img src="item_totem_of_undying.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> Arch Angel</td>
         <td>Supportive abilities</td>
     </tr>
     <tr>
-        <td><img src="icon_angel.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> Demi God</td>
+        <td><img src="item_totem_of_undying.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> Demi God</td>
         <td>Single target damage abilities</td>
     </tr>
 </table>

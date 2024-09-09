@@ -1,6 +1,6 @@
 # Elf
 
-<img src="icon_elf.png" alt="elf_icon" width="32" style="inline" title="Elf Icon"/> Elves live deep within the woods. They are specialized in support and healing abilities, and they are a species with many secrets. Because of that, they tend to hide from other species, especially humans.
+<img src="item_sweet_berries.png" alt="elf_icon" width="32" style="inline" title="Elf Icon"/> Elves live deep within the woods. They are specialized in support and healing abilities, and they are a species with many secrets. Because of that, they tend to hide from other species, especially humans.
 
 <chapter title="Active Abilities"/>
 
@@ -58,11 +58,11 @@ The Elf class consists of two subclasses that can be selected later on.
         <td>Function</td>
     </tr>
     <tr>
-        <td><img src="icon_elf.png" alt="elf_icon" width="32" style="inline" title="Elf Icon"/> Dryad</td>
+        <td><img src="item_sweet_berries.png" alt="elf_icon" width="32" style="inline" title="Elf Icon"/> Dryad</td>
         <td>Psychic type abilities</td>
     </tr>
     <tr>
-        <td><img src="icon_elf.png" alt="elf_icon" width="32" style="inline" title="Elf Icon"/> Guardian</td>
+        <td><img src="item_sweet_berries.png" alt="elf_icon" width="32" style="inline" title="Elf Icon"/> Guardian</td>
         <td>Fairy type abilities</td>
     </tr>
 </table>

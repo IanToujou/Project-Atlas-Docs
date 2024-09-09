@@ -1,6 +1,6 @@
 # Wolf
 
-<img src="icon_wolf.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> Wolves are a race found primarily in cold biomes. They move in a pack. These ice-cold killers use their sense of smell to chase down any prey. In a pack they are true survival artists, but when they are alone their weaknesses come to the fore.
+<img src="item_bone.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> Wolves are a race found primarily in cold biomes. They move in a pack. These ice-cold killers use their sense of smell to chase down any prey. In a pack they are true survival artists, but when they are alone their weaknesses come to the fore.
 
 <chapter title="Active Abilities"/>
 
@@ -63,11 +63,11 @@ The Wolf class consists of two subclasses that can be selected later on.
         <td>Function</td>
     </tr>
     <tr>
-        <td><img src="icon_wolf.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> Snow Wolf</td>
+        <td><img src="item_bone.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> Snow Wolf</td>
         <td>Water & air abilities</td>
     </tr>
     <tr>
-        <td><img src="icon_wolf.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> Forest Wolf</td>
+        <td><img src="item_bone.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> Forest Wolf</td>
         <td>Life-stealing abilities</td>
     </tr>
 </table>

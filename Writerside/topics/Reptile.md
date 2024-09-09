@@ -1,6 +1,6 @@
 # Reptile
 
-<img src="icon_reptile.png" alt="reptile_icon" width="32" style="inline" title="Reptile Icon"/> Reptiles are commonly found near water or in the desert, depending on the subclass. They are agile and very specialized in their environment. Reptiles rest in caves, but they need the sunlight to gain energy.
+<img src="item_nautilus_shell.png" alt="reptile_icon" width="32" style="inline" title="Reptile Icon"/> Reptiles are commonly found near water or in the desert, depending on the subclass. They are agile and very specialized in their environment. Reptiles rest in caves, but they need the sunlight to gain energy.
 
 <chapter title="Active Abilities"/>
 
@@ -58,11 +58,11 @@ The Reptile class consists of two subclasses that can be selected later on.
         <td>Function</td>
     </tr>
     <tr>
-        <td><img src="icon_reptile.png" alt="reptile_icon" width="32" style="inline" title="Reptile Icon"/> Lizard</td>
+        <td><img src="item_nautilus_shell.png" alt="reptile_icon" width="32" style="inline" title="Reptile Icon"/> Lizard</td>
         <td>Water type abilities</td>
     </tr>
     <tr>
-        <td><img src="icon_reptile.png" alt="reptile_icon" width="32" style="inline" title="Reptile Icon"/> Snake</td>
+        <td><img src="item_nautilus_shell.png" alt="reptile_icon" width="32" style="inline" title="Reptile Icon"/> Snake</td>
         <td>Earth type abilities</td>
     </tr>
 </table>

@@ -1,6 +1,6 @@
 # Feline
 
-<img src="icon_feline.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Feline creatures are known for their agility and the ability to overcome obstacles. Felines live within their group, and it’s rare to see one with other species. They are not alone most of the time and fight together.
+<img src="item_phantom_membrane.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Feline creatures are known for their agility and the ability to overcome obstacles. Felines live within their group, and it’s rare to see one with other species. They are not alone most of the time and fight together.
 
 <chapter title="Active Abilities"/>
 
@@ -58,11 +58,11 @@ The Feline class consists of two subclasses that can be selected later on.
         <td>Function</td>
     </tr>
     <tr>
-        <td><img src="icon_feline.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Leopard</td>
+        <td><img src="item_phantom_membrane.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Leopard</td>
         <td>Abilities related to the savanna & desert</td>
     </tr>
     <tr>
-        <td><img src="icon_feline.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Forest Cat</td>
+        <td><img src="item_phantom_membrane.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Forest Cat</td>
         <td>Abilities related to the forest</td>
     </tr>
 </table>
