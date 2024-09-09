@@ -55,7 +55,7 @@ Selecting a subclass is only possible at a certain character level.
         <td>Description</td>
     </tr>
     <tr>
-        <td><img src="item_magma_cream.png" alt="magma_cream" width="32" style="inline" title="Magma Cream"/> Hellspawn</td>
+        <td><img src="item_magma_cream.png" alt="magma_cream" width="32" style="inline" title="Magma Cream"/> <a href="Hellspawn.md"/></td>
         <td>Hellspawns are aggressive demons straight from the underworld. They are known to attack their foes relentlessly in swarms.</td>
     </tr>
     <tr>

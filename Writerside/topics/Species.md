@@ -1,7 +1,12 @@
 # Introduction
 
-Project Atlas currently features nine different species.
-The species are divided into two categories: Animal-Like and Human-Like.
+Project Atlas currently features nine different species and many subspecies.
+When joining the server, you can select any base species.
+
+At character level 8, you can select a subspecies using the altar.
+One of the subspecies is an extension of the base species, which means it has the same passive and key abilities.
+The only difference is that the extension will have an additional key ability.
+All the other subclasses are variations and unique in their own way.
 
 <table>
     <tr>
