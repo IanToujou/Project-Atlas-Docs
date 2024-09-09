@@ -22,11 +22,11 @@ The species are divided into two categories: Animal-Like and Human-Like.
     </tr>
     <tr>
         <td><img src="item_totem_of_undying.png" alt="angel_icon" width="32" style="inline" title="Angel Icon"/> <a href="Angel.md"/></td>
-        <td>Angels are the opposite of demons. They are associated with being good and helping other species, or at least people who worship them. Some angels though, are corrupted, and they are evil, despite their good nature.</td>
+        <td>Angels are the opposite of demons. They are associated with being good and helping other species, or at least people who worship them. Some angels, though, are corrupted, and they are evil, despite their good nature.</td>
     </tr>
     <tr>
         <td><img src="item_minecart.png" alt="human_icon" width="32" style="inline" title="Human Icon"/> <a href="Human.md"/></td>
-        <td>Humans are boring, you say? Humanity has come a long way, building cities, developing technologies and going to war with other species. They don't have any buffs or debuffs, but their innovative skills and will to fight made them survive.</td>
+        <td>Humans are boring, you say? Humanity has come a long way, building cities, developing technologies and going to war with other species. They do not have any buffs or debuffs, but their innovative skills and will to fight made them survive.</td>
     </tr>
     <tr>
         <td><img src="item_heart_of_the_sea.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> <a href="Aquatilia.md"/></td>
@@ -34,7 +34,7 @@ The species are divided into two categories: Animal-Like and Human-Like.
     </tr>
     <tr>
         <td><img src="item_phantom_membrane.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> <a href="Feline.md"/></td>
-        <td>Feline creatures are known for their agility and the ability to overcome obstacles. Felines live within their group, and it’s rare to see one with other species. They are not alone most of the time and fight together.</td>
+        <td>Feline creatures are known for their agility and the ability to overcome obstacles. Felines live within their group, and it is rare to see one with other species. They are not alone most of the time and fight together.</td>
     </tr>
     <tr>
         <td><img src="item_raw_gold.png" alt="dwarf_icon" width="32" style="inline" title="Dwarf Icon"/> <a href="Dwarf.md"/></td>
@@ -42,6 +42,6 @@ The species are divided into two categories: Animal-Like and Human-Like.
     </tr>
     <tr>
         <td><img src="item_bone.png" alt="wolf_icon" width="32" style="inline" title="Wolf Icon"/> <a href="Wolf.md"/></td>
-        <td>Wolves are a race found primarily in cold biomes. They move in a pack. These ice-cold killers use their sense of smell to chase down any prey. In a pack they are true survival artists, but when they are alone their weaknesses come to the fore.</td>
+        <td>Wolves are a race found primarily in cold biomes. They move in a pack. These ice-cold killers use their sense of smell to chase down any prey. In a pack they are true survival artists, but when they are alone, their weaknesses come to the fore.</td>
     </tr>
 </table>

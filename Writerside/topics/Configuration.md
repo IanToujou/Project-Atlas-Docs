@@ -25,7 +25,7 @@ However, data is stored in the <code>plugins/ProjectAtlas/data/</code>.
     </tr>
     <tr>
         <td>spells.yml</td>
-        <td>Contains all the spells where you can set the delay, mana cost. We don't recommend changing any of these values, for balancing reasons.</td>
+        <td>Contains all the spells where you can set the delay, mana cost. We do not recommend changing any of these values, for balancing reasons.</td>
     </tr>
     <tr>
         <td>items.yml</td>
@@ -68,5 +68,6 @@ To manually edit data in a config file,
 make sure the server is off or make sure the player has not joined since the last server-start if you are editing
 the data of an individual player.
 
-After editing, save the file and start the server again. In case you only edited a player that has not been loaded yet, you don't need to perform any additional
+After editing, save the file and start the server again.
+In case you only edited a player that has not been loaded yet, you do not need to perform any additional
 steps, as the plugin will load the new data when the player joins.

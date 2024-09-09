@@ -6,7 +6,9 @@ Selecting the Demon class will grant you a variety of active abilities. You can 
 
 <chapter title="Key Ability"/>
 
-The Demon can consume other player's souls by killing them. One soul grants an additional health multiplier of 0.1x. This multiplier can stack up to a total multiplier of 2.0x.
+The Demon can consume souls by killing them.
+One soul grants an additional health multiplier of 0.1x.
+This multiplier can stack up to a total multiplier of 2.0x.
 
 <chapter title="Passive Abilities"/>
 
@@ -58,11 +60,11 @@ Selecting a subclass is only possible at a certain character level.
     </tr>
     <tr>
         <td><img src="item_ender_pearl.png" alt="ender_pearl" width="32" style="inline" title="Ender Pearl"/> Void Walker</td>
-        <td>Not every demon is born in hell. The Void Walker, a highly intelligent species, originates from the void. Most Void Walkers are more or less harmless, but you should not mess with one.</td>
+        <td>Not every demon was born in hell. The Void Walker, a highly intelligent species, originates from the void. Most Void Walkers are more or less harmless, but you should not mess with one.</td>
     </tr>
     <tr>
         <td><img src="item_nether_star.png" alt="nether_star" width="32" style="inline" title="Nether Star"/> Chaos Beast</td>
-        <td>In a rare event, multiple Void Walkers can merge together and create a new species: the Chaos Beast. They share a hive mind and are able to manipulate time and space on a larger scale.</td>
+        <td>In a rare event, multiple Void Walkers can merge and create a new species: the Chaos Beast. They share a hive mind and are able to manipulate time and space on a larger scale.</td>
     </tr>
     <tr>
         <td><img src="item_phantom_membrane.png" alt="phantom_membrane" width="32" style="inline" title="Phantom Membrane"/> Wraith</td>

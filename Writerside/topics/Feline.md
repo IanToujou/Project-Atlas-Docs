@@ -1,6 +1,6 @@
 # Feline
 
-<img src="item_phantom_membrane.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Feline creatures are known for their agility and the ability to overcome obstacles. Felines live within their group, and it’s rare to see one with other species. They are not alone most of the time and fight together.
+<img src="item_phantom_membrane.png" alt="feline_icon" width="32" style="inline" title="Feline Icon"/> Feline creatures are known for their agility and the ability to overcome obstacles. Felines live within their group, and it's rare to see one with other species. They aren't alone most of the time and fight together.
 
 <chapter title="Active Abilities"/>
 

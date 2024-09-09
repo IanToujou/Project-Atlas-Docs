@@ -1,6 +1,6 @@
 # Human
 
-<img src="item_minecart.png" alt="human_icon" width="32" style="inline" title="Human Icon"/> Humans are boring, you say? Humanity has come a long way, building cities, developing technologies and going to war with other species. They don't have any buffs or debuffs, but their innovative skills and will to fight made them survive.
+<img src="item_minecart.png" alt="human_icon" width="32" style="inline" title="Human Icon"/> Humans are boring, you say? Humanity has come a long way, building cities, developing technologies and going to war with other species. They do not have any buffs or debuffs, but their innovative skills and will to fight made them survive.
 
 <chapter title="Active Abilities"/>
 
