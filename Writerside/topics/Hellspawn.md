@@ -6,7 +6,11 @@
 
 <chapter title="Key Ability"/>
 
-Hellspawns can drink lava to nullify any elemental resistances against the <format color="IndianRed"><img src="icon_fire.png" alt="icon_fire" style="inline" width="20" title="Fire Icon"/>Fire</format> element.
+The Hellspawn can consume souls by killing them.
+One soul grants an additional health multiplier of 0.1x.
+This multiplier can stack up to a total multiplier of 2.0x.
+
+Hellspawns can also drink lava to nullify any elemental resistances against the <format color="IndianRed"><img src="icon_fire.png" alt="icon_fire" style="inline" width="20" title="Fire Icon"/>Fire</format> element.
 
 <chapter title="Passive Abilities">
 
