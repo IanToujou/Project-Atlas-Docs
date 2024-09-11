@@ -4,11 +4,13 @@
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>
 
-<chapter title="Key Ability"/>
+<chapter title="Key Ability">
 
 Void Walkers can create rifts in space-time. These rifts are only personal and invisible to other players. They must be placed on crying obsidian and have a minimum and maximum range, that can be set by the server admin.
 
 The default minimum range is 8 blocks, and the default maximum range is 500 blocks.
+
+</chapter>
 
 <chapter title="Passive Abilities">
 

@@ -4,11 +4,13 @@
 
 Selecting the Demon class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/>section.
 
-<chapter title="Key Ability"/>
+<chapter title="Key Ability">
 
 The Demon can consume souls by killing them.
 One soul grants an additional health multiplier of 0.1x.
 This multiplier can stack up to a total multiplier of 2.0x.
+
+</chapter>
 
 <chapter title="Passive Abilities"/>
 
@@ -41,7 +43,7 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
 </table>
 
-<chapter title="Subclasses"/>
+<chapter title="Subclasses">
 
 The Demon class consists of a variety of different subclasses. One of these
 subclasses is an extension of the base class, whereas the other subclasses
@@ -59,11 +61,11 @@ Selecting a subclass is only possible at a certain character level.
         <td>Hellspawns are aggressive demons straight from the underworld. They are known to attack their foes relentlessly in swarms.</td>
     </tr>
     <tr>
-        <td><img src="item_ender_pearl.png" alt="ender_pearl" width="32" style="inline" title="Ender Pearl"/> <a href="Voidwalker.md"/></td>
+        <td><img src="item_ender_pearl.png" alt="ender_pearl" width="32" style="inline" title="Ender Pearl"/> <a href="Void-Walker.md"/></td>
         <td>Not every demon was born in hell. The Void Walker, a highly intelligent species, originates from the void. Most Void Walkers are more or less harmless, but you should not mess with one.</td>
     </tr>
     <tr>
-        <td><img src="item_nether_star.png" alt="nether_star" width="32" style="inline" title="Nether Star"/> Chaos Beast</td>
+        <td><img src="item_nether_star.png" alt="nether_star" width="32" style="inline" title="Nether Star"/> <a href="Chaos-Beast.md"/></td>
         <td>In a rare event, multiple Void Walkers can merge and create a new species: the Chaos Beast. They share a hive mind and are able to manipulate time and space on a larger scale.</td>
     </tr>
     <tr>
@@ -83,3 +85,5 @@ Selecting a subclass is only possible at a certain character level.
         <td>Vampires are only active at night. They hate the sunlight (real) and possess some life draining abilities.</td>
     </tr>
 </table>
+
+</chapter>

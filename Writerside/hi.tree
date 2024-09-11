@@ -12,8 +12,9 @@
     <toc-element toc-title="Species">
         <toc-element topic="Species.md"/>
         <toc-element topic="Demon.md">
+            <toc-element topic="Chaos-Beast.md"/>
             <toc-element topic="Hellspawn.md"/>
-            <toc-element topic="Voidwalker.md"/>
+            <toc-element topic="Void-Walker.md"/>
         </toc-element>
         <toc-element topic="Elf.md"/>
         <toc-element topic="Reptile.md"/>
