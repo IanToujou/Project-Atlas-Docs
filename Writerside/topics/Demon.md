@@ -29,7 +29,7 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td><img src="icon_strength.png" alt="strength_icon" width="32" style="inline" title="Strength"/> Strength (I) on netherrack</td>
+        <td><img src="icon_strength.png" alt="strength_icon" width="32" style="inline" title="Strength"/> Strength (I) around netherrack</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
@@ -37,7 +37,7 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td><img src="icon_mana.png" alt="mana_icon" width="32" style="inline" title="Mana"/> Mana drain (0.5/s) on soul sand</td>
+        <td><img src="icon_mana.png" alt="mana_icon" width="32" style="inline" title="Mana"/> Mana drain (0.5/s) around soul sand</td>
     </tr>
 </table>
 
