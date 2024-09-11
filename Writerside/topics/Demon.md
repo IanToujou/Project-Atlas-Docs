@@ -59,7 +59,7 @@ Selecting a subclass is only possible at a certain character level.
         <td>Hellspawns are aggressive demons straight from the underworld. They are known to attack their foes relentlessly in swarms.</td>
     </tr>
     <tr>
-        <td><img src="item_ender_pearl.png" alt="ender_pearl" width="32" style="inline" title="Ender Pearl"/> Void Walker</td>
+        <td><img src="item_ender_pearl.png" alt="ender_pearl" width="32" style="inline" title="Ender Pearl"/> <a href="Voidwalker.md"/></td>
         <td>Not every demon was born in hell. The Void Walker, a highly intelligent species, originates from the void. Most Void Walkers are more or less harmless, but you should not mess with one.</td>
     </tr>
     <tr>

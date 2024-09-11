@@ -1,20 +1,18 @@
-# Hellspawn
+# Void Walker
 
-<img src="item_magma_cream.png" alt="magma_cream" width="32" style="inline" title="Magma Cream"/> Hellspawns are aggressive demons straight from the underworld. They are known to attack their foes relentlessly in swarms.
+<img src="item_ender_pearl.png" alt="ender_pearl" width="32" style="inline" title="Ender Pearl"/> Not every demon was born in hell. The Void Walker, a highly intelligent species, originates from the void. Most Void Walkers are more or less harmless, but you should not mess with one.
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>
 
 <chapter title="Key Ability"/>
 
-The Hellspawn can consume souls by killing them.
-One soul grants an additional health multiplier of 0.1x.
-This multiplier can stack up to a total multiplier of 2.0x.
-
 Hellspawns can also drink lava to nullify any elemental resistances against the <format color="IndianRed"><img src="icon_fire.png" alt="icon_fire" style="inline" width="20" title="Fire Icon"/>Fire</format> element.
 
 <chapter title="Passive Abilities">
 
-The passive abilities, buffs and debuffs are listed in the table below.
+Void Walkers can create rifts in space-time. These rifts are only personal and invisible to other players. They must be placed on crying obsidian and have a minimum and maximum range, that can be set by the server admin.
+
+The default minimum range is 8 blocks, and the default maximum range is 500 blocks.
 
 <table>
     <tr>
