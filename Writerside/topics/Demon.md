@@ -69,7 +69,7 @@ Selecting a subclass is only possible at a certain character level.
         <td>In a rare event, multiple Void Walkers can merge and create a new species: the Chaos Beast. They share a hive mind and are able to manipulate time and space on a larger scale.</td>
     </tr>
     <tr>
-        <td><img src="item_phantom_membrane.png" alt="phantom_membrane" width="32" style="inline" title="Phantom Membrane"/> Wraith</td>
+        <td><img src="item_phantom_membrane.png" alt="phantom_membrane" width="32" style="inline" title="Phantom Membrane"/> <a href="Wraith.md"></a></td>
         <td>Wraiths are evil ghosts that possess creepy abilities. They love to pull pranks or even haunt other players.</td>
     </tr>
     <tr>
