@@ -73,7 +73,7 @@ Selecting a subclass is only possible at a certain character level.
         <td>Wraiths are evil ghosts that possess creepy abilities. They love to pull pranks or even haunt other players.</td>
     </tr>
     <tr>
-        <td><img src="item_totem_of_undying.png" alt="totem_of_undying" width="32" style="inline" title="Totem Of Undying"/> Fallen Angel</td>
+        <td><img src="item_totem_of_undying.png" alt="totem_of_undying" width="32" style="inline" title="Totem Of Undying"/> <a href="Fallen-Angel.md"></a></td>
         <td>Angels that turn against the heavens to pursue evil are banished from the greater realms. They were sent to hell for eternity as a punishment, where they continue their mischief.</td>
     </tr>
     <tr>

@@ -21,11 +21,19 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td> </td>
+        <td><img src="effect_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision & <img src="effect_speed.png" alt="speed_icon" width="32" style="inline" title="Speed"/> speed (I) at night</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td> </td>
+        <td><img src="effect_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (I) at daytime</td>
+    </tr>
+    <tr>
+        <td>❌ Debuff</td>
+        <td><img src="effect_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (I) & <img src="effect_weakness.png" alt="weakness_icon" width="32" style="inline" title="Weakness"/> weakness (I) in water</td>
+    </tr>
+    <tr>
+        <td>❌ Debuff</td>
+        <td>Damage around gold blocks</td>
     </tr>
 </table>
 
