@@ -24,11 +24,11 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td><img src="icon_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision at night</td>
+        <td><img src="effect_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision at night</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td>Permanent <img src="icon_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> slowness (II)</td>
+        <td>Permanent <img src="effect_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> slowness (II)</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>

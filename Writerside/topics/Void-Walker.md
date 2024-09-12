@@ -23,19 +23,19 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td>Permanent <img src="icon_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision</td>
+        <td>Permanent <img src="effect_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision</td>
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td><img src="icon_speed.png" alt="speed_icon" width="32" style="inline" title="Speed"/> speed (I) at night</td>
+        <td><img src="effect_speed.png" alt="speed_icon" width="32" style="inline" title="Speed"/> speed (I) at night</td>
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td><img src="icon_strength.png" alt="strength_icon" width="32" style="inline" title="Strength"/> Strength (I) around netherrack</td>
+        <td><img src="effect_strength.png" alt="strength_icon" width="32" style="inline" title="Strength"/> Strength (I) around netherrack</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td><img src="icon_weakness.png" alt="weakness_icon" width="32" style="inline" title="Weakness"/> Weakness (I) in sunlight</td>
+        <td><img src="effect_weakness.png" alt="weakness_icon" width="32" style="inline" title="Weakness"/> Weakness (I) in sunlight</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>

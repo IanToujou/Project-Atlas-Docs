@@ -21,11 +21,11 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td><img src="icon_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision and <img src="icon_speed.png" alt="speed_icon" width="32" style="inline" title="Speed"/> speed (I) at night</td>
+        <td><img src="effect_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision and <img src="effect_speed.png" alt="speed_icon" width="32" style="inline" title="Speed"/> speed (I) at night</td>
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td><img src="icon_invisibility.png" alt="invisibility_icon" width="32" style="inline" title="Invisibility"/> Invisibility at daytime</td>
+        <td><img src="effect_invisibility.png" alt="invisibility_icon" width="32" style="inline" title="Invisibility"/> Invisibility at daytime</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
@@ -33,11 +33,11 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td><img src="icon_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (I) at daytime</td>
+        <td><img src="effect_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (I) at daytime</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td><img src="icon_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (II), <img src="icon_weakness.png" alt="weakness_icon" width="32" style="inline" title="Weakness"/> weakness (I) & no mana regeneration at daytime</td>
+        <td><img src="effect_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (II), <img src="effect_weakness.png" alt="weakness_icon" width="32" style="inline" title="Weakness"/> weakness (I) & no mana regeneration at daytime</td>
     </tr>
 </table>
 

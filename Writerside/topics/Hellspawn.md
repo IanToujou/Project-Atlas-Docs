@@ -25,23 +25,23 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td>Permanent <img src="icon_fire_resistance.png" alt="fire_resistance_icon" width="32" style="inline" title="Fire resistance"/> fire resistance</td>
+        <td>Permanent <img src="effect_fire_resistance.png" alt="fire_resistance_icon" width="32" style="inline" title="Fire resistance"/> fire resistance</td>
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td><img src="icon_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision & <img src="icon_speed.png" alt="speed_icon" width="32" style="inline" title="Speed"/> speed (I) at night</td>
+        <td><img src="effect_night_vision.png" alt="night_vision_icon" width="32" style="inline" title="Night vision"/> Night vision & <img src="effect_speed.png" alt="speed_icon" width="32" style="inline" title="Speed"/> speed (I) at night</td>
     </tr>
     <tr>
         <td>✅ Buff</td>
-        <td><img src="icon_strength.png" alt="strength_icon" width="32" style="inline" title="Strength"/> Strength (I) around netherrack</td>
+        <td><img src="effect_strength.png" alt="strength_icon" width="32" style="inline" title="Strength"/> Strength (I) around netherrack</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td><img src="icon_weakness.png" alt="weakness_icon" width="32" style="inline" title="Weakness"/> Weakness (I), <img src="icon_mining_fatigue.png" alt="mining_fatigue_icon" width="32" style="inline" title="Mining Fatigue"/> mining fatigue (II) & <img src="icon_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (II) in water</td>
+        <td><img src="effect_weakness.png" alt="weakness_icon" width="32" style="inline" title="Weakness"/> Weakness (I), <img src="effect_mining_fatigue.png" alt="mining_fatigue_icon" width="32" style="inline" title="Mining Fatigue"/> mining fatigue (II) & <img src="effect_slowness.png" alt="slowness_icon" width="32" style="inline" title="Slowness"/> Slowness (II) in water</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td><img src="icon_mana.png" alt="mana_icon" width="32" style="inline" title="Mana"/> Mana drain (0.5/s) around soul sand</td>
+        <td><img src="effect_mana.png" alt="mana_icon" width="32" style="inline" title="Mana"/> Mana drain (0.5/s) around soul sand</td>
     </tr>
 </table>
 
