@@ -69,19 +69,19 @@ Selecting a subclass is only possible at a certain character level.
         <td>In a rare event, multiple Void Walkers can merge and create a new species: the Chaos Beast. They share a hive mind and are able to manipulate time and space on a larger scale.</td>
     </tr>
     <tr>
-        <td><img src="item_phantom_membrane.png" alt="phantom_membrane" width="32" style="inline" title="Phantom Membrane"/> <a href="Wraith.md"></a></td>
+        <td><img src="item_phantom_membrane.png" alt="phantom_membrane" width="32" style="inline" title="Phantom Membrane"/> <a href="Wraith.md"/></td>
         <td>Wraiths are evil ghosts that possess creepy abilities. They love to pull pranks or even haunt other players.</td>
     </tr>
     <tr>
-        <td><img src="item_totem_of_undying.png" alt="totem_of_undying" width="32" style="inline" title="Totem Of Undying"/> <a href="Fallen-Angel.md"></a></td>
+        <td><img src="item_totem_of_undying.png" alt="totem_of_undying" width="32" style="inline" title="Totem Of Undying"/> <a href="Fallen-Angel.md"/></td>
         <td>Angels that turn against the heavens to pursue evil are banished from the greater realms. They were sent to hell for eternity as a punishment, where they continue their mischief.</td>
     </tr>
     <tr>
-        <td><img src="item_rotten_flesh.png" alt="rotten_flesh" width="32" style="inline" title="Rotten Flesh"/> Ghoul</td>
+        <td><img src="item_rotten_flesh.png" alt="rotten_flesh" width="32" style="inline" title="Rotten Flesh"/> <a href="Ghoul.md"/></td>
         <td>An undead species that can live both on water and on land. Some healing spells may have unwanted side effects on this species.</td>
     </tr>
     <tr>
-        <td><img src="item_ghast_tear.png" alt="ghast_tear" width="32" style="inline" title="Ghast Tear"/> Vampire</td>
+        <td><img src="item_ghast_tear.png" alt="ghast_tear" width="32" style="inline" title="Ghast Tear"/> <a href="Vampire.md"/></td>
         <td>Vampires are only active at night. They hate the sunlight (real) and possess some life draining abilities.</td>
     </tr>
 </table>
