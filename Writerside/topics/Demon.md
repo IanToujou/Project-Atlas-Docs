@@ -6,9 +6,30 @@ Selecting the Demon class will grant you a variety of active abilities. You can 
 
 <chapter title="Key Ability">
 
-The Demon can consume souls by killing them.
-One soul grants an additional health multiplier of 0.1x.
-This multiplier can stack up to a total multiplier of 2.0x.
+The basic demon species can consume other players by killing them to buff their own max health.
+Every kill will add a multiplier of `0.1x` to their max health.
+This stacks up to a total multiplier of `2.0x`.
+This means that they can consume a total of ten souls.
+
+Demons cannot consume their own souls, and they can only consume any player's soul once.
+When the demon dies, they will lose any collected souls and therefore the multiplier.
+
+The demon's bar will change depending on their current multiplier. If the multiplier is above `1.0x`, it will flash.
+
+<table>
+    <tr>
+        <td>Multiplier</td>
+        <td>Bar Style</td>
+    </tr>
+    <tr>
+        <td>20 x 1.0 = 20 HP</td>
+        <td><img src="demon_bar_1.png" alt="demon_bar" height="24" style="inline" title="Demon Bar"/></td>
+    </tr>
+    <tr>
+        <td>20 x 2.0 = 40 HP</td>
+        <td><img src="demon_bar_2.png" alt="demon_bar" height="24" style="inline" title="Demon Bar"/></td>
+    </tr>
+</table>
 
 </chapter>
 
