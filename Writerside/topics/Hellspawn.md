@@ -27,11 +27,11 @@ The hellspawn's bar will change depending on their current multiplier. If the mu
     </tr>
     <tr>
         <td>20 x 1.0 = 20 HP</td>
-        <td><img src="demon_bar_1.png" alt="demon_bar" height="24" style="inline" title="Demon Bar"/></td>
+        <td><img src="text_demon_health.png" alt="demon_bar" height="24" style="inline" title="Demon Bar"/></td>
     </tr>
     <tr>
         <td>20 x 2.0 = 40 HP</td>
-        <td><img src="demon_bar_2.png" alt="demon_bar" height="24" style="inline" title="Demon Bar"/></td>
+        <td><img src="text_demon_health_multiplier.png" alt="demon_bar" height="24" style="inline" title="Demon Bar"/></td>
     </tr>
 </table>
 
