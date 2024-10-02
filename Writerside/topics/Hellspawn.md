@@ -1,5 +1,7 @@
 # Hellspawn
 
+// todo add picture
+
 <img src="item_magma_cream.png" alt="magma_cream" width="32" style="inline" title="Magma Cream"/> Hellspawns are aggressive demons straight from the underworld. They are known to attack their foes relentlessly in swarms.
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>
