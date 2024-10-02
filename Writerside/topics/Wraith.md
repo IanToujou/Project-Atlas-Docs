@@ -1,5 +1,7 @@
 # Wraith
 
+<img src="showcase_wraith.png" alt="showcase_wraith" title="Wraith Showcase"/>
+
 <img src="item_phantom_membrane.png" alt="phantom_membrane" width="32" style="inline" title="Phantom Membrane"/> Wraiths are evil ghosts that possess creepy abilities. They love to pull pranks or even haunt other players.
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>
@@ -11,14 +13,9 @@ They can interact with blocks, entities and the world around them, but now with 
 It is theoretically possible to hurt players in this way, but certain block placements are disabled during the day for this reason.
 
 Blocks and items that are disabled during the day include:
-- Water Bucket
-- Lava Bucket
-- TNT
-- Fire charge
-- Flint and steel
-- Fireworks
+Water & lava buckets, TNT, tools to make fire, fireworks, etc.
 
-// todo invisible wraith
+<img src="screenshot_wraith_invisible.png" alt="screenshot_wraith_invisible" title="Wraith is invisible"/>
 
 </chapter>
 

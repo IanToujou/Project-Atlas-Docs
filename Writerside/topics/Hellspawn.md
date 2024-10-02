@@ -42,7 +42,7 @@ The hellspawn's bar will change depending on their current multiplier. If the mu
 Hellspawns can also drink lava to nullify any elemental resistances against the <format color="IndianRed"><img src="element_fire.png" alt="element_fire" style="inline" width="20" title="Fire"/>Fire</format> element.
 Fueling up the bar is done by left-clicking in the air with a lava bucket. Each lava bucket will grant `10` magma points, up to `100` in total. Using a spell will consume magma equivalent to the spell's base weight.
 
-// todo magma drink
+<img src="screenshot_hellspawn_magma.png" alt="screenshot_hellspawn_magma" title="Hellspawn drinking magma"/>
 
 </chapter>
 
