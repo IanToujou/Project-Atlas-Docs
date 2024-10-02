@@ -6,7 +6,19 @@
 
 <chapter title="Key Ability">
 
-The Wraith is completely invisible in daytime and cannot interact with players or use any spells while invisible.
+The wraith is completely invisible in daytime and cannot interact with players or use any spells while invisible.
+They can interact with blocks, entities and the world around them, but now with players.
+It is theoretically possible to hurt players in this way, but certain block placements are disabled during the day for this reason.
+
+Blocks and items that are disabled during the day include:
+- Water Bucket
+- Lava Bucket
+- TNT
+- Fire charge
+- Flint and steel
+- Fireworks
+
+// todo invisible wraith
 
 </chapter>
 

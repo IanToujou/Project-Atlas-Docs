@@ -10,7 +10,7 @@
 
 Void Walkers can create rifts in space-time. These rifts are only personal and invisible to other players. They must be placed on crying obsidian and have a minimum and maximum range, that can be set by the server admin.
 
-The default minimum range is 8 blocks, and the default maximum range is 500 blocks. Once the block where the rift is placed is removed, both rifts will collapse. Only one rift per void walker can be active at a time.
+The default minimum range is `8` blocks, and the default maximum range is `500` blocks. Once the block where the rift is placed is removed, both rifts will collapse. Only one rift per void walker can be active at a time.
 
 // todo add rift place gif
 // todo add two rifts picture

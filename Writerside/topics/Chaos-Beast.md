@@ -8,10 +8,23 @@
 
 <chapter title="Key Ability">
 
-The Chaos Beast can right-click a redstone block to spawn a domain expansion.
+The Chaos Beast can right-click a redstone block to spawn a domain expansion using **aura**.
 Domain expansions are spherical regions where nobody can get in or out, except the owner of the domain.
+Since this mechanism works by using barrier blocks that disappear when the owner of the domain wants to enter or exit, it is possible for players to pass through the barrier with the chaos beast.
 
-Right-clicking the redstone block again will remove the domain. Domains can intersect each other, but their center must be more than three blocks apart.
+// todo domain image
+
+Right-clicking the redstone block again will remove the domain.
+Domains can intersect each other, but their center must be more than `3` blocks apart.
+If they are closer, the existing domain will collapse.
+
+// todo domain intersection graph
+
+Any chaos beast can have a specific maximum amount of domain expansions at the same time, normally set to `5`.
+An existing and active domain will drain `1` **aura points** per execution of the main thread (around 4/s).
+This rate will of course multiply with the amount of active domains.
+
+// todo aura explanation
 
 </chapter>
 
@@ -34,7 +47,7 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
     <tr>
         <td>❌ Debuff</td>
-        <td>Touching prismarine will collapse any domain</td>
+        <td>Touching prismarine will let every domain collapse</td>
     </tr>
     <tr>
         <td>❌ Debuff</td>
