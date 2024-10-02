@@ -1,5 +1,7 @@
 # Ghoul
 
+<img src="showcase_ghoul.png" alt="showcase_ghoul" title="Ghoul Showcase"/>
+
 <img src="item_rotten_flesh.png" alt="rotten_flesh" width="32" style="inline" title="Rotten Flesh"/> An undead species that can live both on water and on land. Some healing spells may have unwanted side effects on this species.
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>

@@ -1,5 +1,7 @@
 # Demon
 
+<img src="showcase_demon.png" alt="showcase_demon" title="Demon Showcase"/>
+
 <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> Demons can live almost everywhere on land, but they prefer to hide under the ground. They build huge fortresses to intimidate their foes. Demons are generally seen as evil and bad individuals.
 
 Selecting the Demon class will grant you a variety of active abilities. You can find more details later on in the <a href="Elements.md"/>section.

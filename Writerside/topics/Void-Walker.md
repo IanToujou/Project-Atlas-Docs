@@ -1,6 +1,6 @@
 # Void Walker
 
-// todo add pictures
+<img src="showcase_void_walker.png" alt="showcase_void_walker" title="Void Walker Showcase"/>
 
 <img src="item_ender_pearl.png" alt="ender_pearl" width="32" style="inline" title="Ender Pearl"/> Not every demon was born in hell. The Void Walker, a highly intelligent species, originates from the void. Most Void Walkers are more or less harmless, but you should not mess with one.
 

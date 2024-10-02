@@ -1,5 +1,7 @@
 # Chaos Beast
 
+<img src="showcase_chaos_beast.png" alt="showcase_chaos_beast" title="Chaos Beast Showcase"/>
+
 <img src="item_nether_star.png" alt="nether_star" width="32" style="inline" title="Nether Star"/> In a rare event, multiple Void Walkers can merge and create a new species: the Chaos Beast. They share a hive mind and are able to manipulate time and space on a larger scale.
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>

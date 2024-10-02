@@ -1,5 +1,7 @@
 # Fallen Angel
 
+<img src="showcase_fallen_angel.png" alt="showcase_fallen_angel" title="Fallen Angel Showcase"/>
+
 <img src="item_totem_of_undying.png" alt="totem_of_undying" width="32" style="inline" title="Totem of Undying"/> Angels that turn against the heavens to pursue evil are banished from the greater realms. They were sent to hell for eternity as a punishment, where they continue their mischief.
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>

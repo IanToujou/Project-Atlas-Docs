@@ -1,5 +1,7 @@
 # Vampire
 
+<img src="showcase_vampire.png" alt="showcase_vampire" title="Vampire Showcase"/>
+
 <img src="item_ghast_tear.png" alt="ghast_tear" width="32" style="inline" title="Ghast Tear"/> Vampires are only active at night. They hate the sunlight (real) and possess some life draining abilities.
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>

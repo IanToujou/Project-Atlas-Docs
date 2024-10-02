@@ -1,12 +1,14 @@
 # Hellspawn
 
-// todo add picture
+<img src="showcase_hellspawn.png" alt="showcase_hellspawn" title="Hellspawn Showcase"/>
 
 <img src="item_magma_cream.png" alt="magma_cream" width="32" style="inline" title="Magma Cream"/> Hellspawns are aggressive demons straight from the underworld. They are known to attack their foes relentlessly in swarms.
 
 <tip>This subspecies is an extension of the <img src="item_fire_charge.png" alt="demon_icon" width="32" style="inline" title="Demon Icon"/> <a href="Demon.md"/> base species.</tip>
 
 <chapter title="Key Ability">
+
+<chapter title="Demonic Consumption">
 
 The hellspawn species can consume other players by killing them to buff their own max health.
 Every kill will add a multiplier of `0.1x` to their max health.
@@ -33,8 +35,14 @@ The hellspawn's bar will change depending on their current multiplier. If the mu
     </tr>
 </table>
 
+</chapter>
+
+<chapter title="Magma-Powered Spells">
+
 Hellspawns can also drink lava to nullify any elemental resistances against the <format color="IndianRed"><img src="element_fire.png" alt="element_fire" style="inline" width="20" title="Fire"/>Fire</format> element.
 Fueling up the bar is done by left-clicking in the air with a lava bucket. Each lava bucket will grant 10 magma points, up to 100 in total. Using a spell will consume magma equivalent to the spell's base weight.
+
+</chapter>
 
 </chapter>
 
