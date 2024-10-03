@@ -8,6 +8,8 @@ Selecting the Demon class will grant you a variety of active abilities. You can 
 
 <chapter title="Key Ability">
 
+<chapter title="Demonic Consumption">
+
 The basic demon species can consume other players by killing them to buff their own max health.
 Every kill will add a multiplier of `0.1x` to their max health.
 This stacks up to a total multiplier of `2.0x`.
@@ -32,6 +34,8 @@ The demon's bar will change depending on their current multiplier. If the multip
         <td><img src="text_demon_health_multiplier.png" alt="demon_bar" height="24" style="inline" title="Demon Bar"/></td>
     </tr>
 </table>
+
+</chapter>
 
 </chapter>
 

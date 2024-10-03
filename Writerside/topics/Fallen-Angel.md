@@ -8,7 +8,11 @@
 
 <chapter title="Key Ability">
 
+<chapter title="Headhunter">
+
 The Fallen Angel is a headhunter species and will get points when killing a target. The points can be used to temporarily improve all spell fields.
+
+</chapter>
 
 </chapter>
 

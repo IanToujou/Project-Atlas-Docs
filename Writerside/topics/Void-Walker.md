@@ -8,6 +8,10 @@
 
 <chapter title="Key Ability">
 
+<chapter title="Space-Time Manipulation">
+
+<img src="screenshot_void_walker_rifts.jpg" alt="screenshot_void_walker_rifts" title="Void Walker rifts" width="1080"/>
+
 Void Walkers can create rifts in space-time. These rifts are only personal and invisible to other players. They must be placed on crying obsidian and have a minimum and maximum range, that can be set by the server admin.
 
 <table>
@@ -27,9 +31,9 @@ Void Walkers can create rifts in space-time. These rifts are only personal and i
 
 The default minimum range is `8` blocks, and the default maximum range is `500` blocks. Once the block where the rift is placed is removed, both rifts will collapse. Only one rift per void walker can be active at a time.
 
-<img src="gif_void_walker_rift_place.gif" alt="gif_void_walker_rift_place" title="Void Walker rift placement"/>
+<img src="gif_void_walker_rift_place.gif" alt="gif_void_walker_rift_place" width="1080" title="Void Walker rift placement"/>
 
-<img src="screenshot_void_walker_rifts.jpg" alt="screenshot_void_walker_rifts" title="Void Walker rifts"/>
+</chapter>
 
 </chapter>
 
