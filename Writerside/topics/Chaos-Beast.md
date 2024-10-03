@@ -20,9 +20,9 @@ If they are closer, the existing domain will collapse.
 
 // todo domain intersection graph
 
-Any chaos beast can have a specific maximum amount of domain expansions at the same time, normally set to `5`.
+Any chaos beast can have a specific maximum number of domain expansions at the same time, normally set to `5`.
 An existing and active domain will drain `1` **aura points** per execution of the main thread (around 4/s).
-This rate will of course multiply with the amount of active domains.
+This rate will, of course, multiply with the number of active domains.
 
 // todo aura explanation
 
