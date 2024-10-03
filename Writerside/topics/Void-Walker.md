@@ -27,9 +27,9 @@ Void Walkers can create rifts in space-time. These rifts are only personal and i
 
 The default minimum range is `8` blocks, and the default maximum range is `500` blocks. Once the block where the rift is placed is removed, both rifts will collapse. Only one rift per void walker can be active at a time.
 
-// todo add rift place gif
+<img src="gif_void_walker_rift_place.gif" alt="gif_void_walker_rift_place" title="Void Walker rift placement"/>
 
-// todo add two rifts picture
+<img src="screenshot_void_walker_rifts.jpg" alt="screenshot_void_walker_rifts" title="Void Walker rifts"/>
 
 </chapter>
 

@@ -18,13 +18,13 @@ Right-clicking the redstone block again will remove the domain.
 Domains can intersect each other, but their center must be more than `3` blocks apart.
 If they are closer, the existing domain will collapse.
 
-// todo domain intersection graph
+<img src="graph_chaos_beast_intersection.png" alt="graph_chaos_beast_intersection" title="Chaos beast domain intersection"/>
 
 Any chaos beast can have a specific maximum number of domain expansions at the same time, normally set to `5`.
 An existing and active domain will drain `1` **aura points** per execution of the main thread (around 4/s).
 This rate will, of course, multiply with the number of active domains.
 
-// todo aura explanation
+<img src="graph_chaos_beast_bar.png" alt="text_chaos_beast_aura" title="Chaos Beast Aura"/>
 
 </chapter>
 
