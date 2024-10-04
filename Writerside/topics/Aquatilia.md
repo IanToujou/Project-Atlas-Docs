@@ -2,12 +2,14 @@
 
 <img src="item_heart_of_the_sea.png" alt="aquatilia_icon" width="32" style="inline" title="Aquatilia Icon"/> Aquatilia is a species that only lives under the sea. They go very rarely on land, mostly because they cannot survive on it without certain conditions. Aquatilia are more closed off to other species due to their environment.
 
-<chapter title="Active Abilities"/>
+<chapter title="Active Abilities">
 
 Selecting the Aquatilia class will grant you a variety of active abilities. 
 You can find more details later on in the <a href="Elements.md"/>section.
 
-<chapter title="Passive Abilities"/>
+</chapter>
+
+<chapter title="Passive Abilities">
 
 The passive abilities, buffs and debuffs are listed in the table below.
 
@@ -44,7 +46,9 @@ The passive abilities, buffs and debuffs are listed in the table below.
     </tr>
 </table>
 
-<chapter title="Subclasses"/>
+</chapter>
+
+<chapter title="Subclasses">
 
 The Aquatilia class consists of two subclasses that can be selected later on.
 
@@ -62,3 +66,5 @@ The Aquatilia class consists of two subclasses that can be selected later on.
         <td>Tank & defense abilities</td>
     </tr>
 </table>
+
+</chapter>

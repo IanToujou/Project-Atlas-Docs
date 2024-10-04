@@ -10,7 +10,12 @@
 
 <chapter title="Headhunter">
 
-The Fallen Angel is a headhunter species and will get points when killing a target. The points can be used to temporarily improve all spell fields.
+<img src="screenshot_fallen_angel_bow.png" alt="screenshot_fallen_angel_bow" title="Fallen angel with bow"/>
+
+The fallen angel is a headhunter species that hunts down any player.
+They can collect headhunter points by killing a player.
+Every point collected will improve every spell field until the fallen angel dies.
+The maximum number of points is `5` by default, and every point increases any field by `10%`.
 
 </chapter>
 
