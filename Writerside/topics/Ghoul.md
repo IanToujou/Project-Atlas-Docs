@@ -8,9 +8,21 @@
 
 <chapter title="Key Ability">
 
-The Ghoul is a radioactive species. They have a radiation level that will increase over time. Staying outside in the sun, or in the nether will increase this rate, whereas standing in rain or in water will wash off radiation.
+<chapter title="Undead Radiation">
 
-The higher the radiation level is, the more debuffs will be applied to other players around the ghoul. At one point, the ghoul will start to debuff himself if the radiation level is too high.
+The Ghoul is a radioactive species.
+They have a radiation level that will increase over time.
+Staying outside in the sun, or in the nether will increase this rate,
+whereas standing in rain or in water will wash off radiation.
+
+The higher the radiation level is,
+the more debuffs will be applied to other players around the ghoul.
+At one point, the ghoul will start to debuff himself if the radiation level is too high.
+A reference table to the different stages can be found below:
+
+// todo add radiation table
+
+</chapter>
 
 </chapter>
 

@@ -8,9 +8,19 @@
 
 <chapter title="Key Ability">
 
-The Vampire has a variation of mana that's called blood mana. Blood mana will not regenerate naturally, but only by inflicting damage to mobs or players. Dealing 10 damage will refill the blood mana by 1. However, the cap for blood mana is three times higher as the one for normal mana. Spells that refill mana will also not work on vampires.
+<chapter title="Bloodthirsty Frenzy">
 
-Furthermore, they can transform into a bat when right-clicking a coal block. When in a bat state, they cannot fly higher than 20 blocks. A simple left-click in the air will make them transform back into a humanoid form.
+// todo write description
+// todo add mana graph
+
+</chapter>
+
+<chapter title="Transmutation">
+
+// todo add image
+// todo write description
+
+</chapter>
 
 </chapter>
 

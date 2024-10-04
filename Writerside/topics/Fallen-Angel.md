@@ -17,6 +17,8 @@ They can collect headhunter points by killing a player.
 Every point collected will improve every spell field until the fallen angel dies.
 The maximum number of points is `5` by default, and every point increases any field by `10%`.
 
+For more information on spell fields, visit the spells (work in progress) section.
+
 </chapter>
 
 </chapter>
