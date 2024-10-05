@@ -27,7 +27,7 @@ If the vampire dies, all their blood mana will be lost.
 
 <chapter title="Transmutation">
 
-// todo add image
+<img src="screenshot_vampire_bat.png" alt="screenshot_vampire_bat" title="Vampire as a bat"/>
 
 Vampires can also transform into a bat.
 This transformation is done by right-clicking a coal block and can be undone by left-clicking in the air.
