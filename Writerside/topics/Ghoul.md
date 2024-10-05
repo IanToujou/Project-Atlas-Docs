@@ -20,7 +20,43 @@ the more debuffs will be applied to other players around the ghoul.
 At one point, the ghoul will start to debuff himself if the radiation level is too high.
 A reference table to the different stages can be found below:
 
-// todo add radiation table
+<table>
+    <tr>
+        <td width="128">Radiation Level</td>
+        <td>Effects on Others</td>
+        <td>Effects on Self</td>
+    </tr>
+    <tr>
+        <td><img src="text_ghoul_radiation_25.png" alt="text_ghoul_radiation_25" title="Radiation level 25"/></td>
+        <td><img src="effect_slowness.png" alt="effect_slowness" width="32" style="inline" title="Slowness"/> Slowness</td>
+        <td>/</td>
+    </tr>
+    <tr>
+        <td><img src="text_ghoul_radiation_50.png" alt="text_ghoul_radiation_50" title="Radiation level 50"/></td>
+        <td><img src="effect_hunger.png" alt="effect_hunger" width="32" style="inline" title="Hunger"/> Hunger</td>
+        <td>/</td>
+    </tr>
+    <tr>
+        <td><img src="text_ghoul_radiation_100.png" alt="text_ghoul_radiation_100" title="Radiation level 100"/></td>
+        <td>/</td>
+        <td><img src="effect_slowness.png" alt="effect_slowness" width="32" style="inline" title="Slowness"/> Slowness</td>
+    </tr>
+    <tr>
+        <td><img src="text_ghoul_radiation_125.png" alt="text_ghoul_radiation_125" title="Radiation level 125"/></td>
+        <td>/</td>
+        <td><img src="effect_hunger.png" alt="effect_hunger" width="32" style="inline" title="Hunger"/> Hunger</td>
+    </tr>
+    <tr>
+        <td><img src="text_ghoul_radiation_150.png" alt="text_ghoul_radiation_150" title="Radiation level 150"/></td>
+        <td>Damage</td>
+        <td>/</td>
+    </tr>
+    <tr>
+        <td><img src="text_ghoul_radiation_200.png" alt="text_ghoul_radiation_200" title="Radiation level 200"/></td>
+        <td>/</td>
+        <td>Damage</td>
+    </tr>
+</table>
 
 </chapter>
 

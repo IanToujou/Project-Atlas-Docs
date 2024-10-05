@@ -10,15 +10,29 @@
 
 <chapter title="Bloodthirsty Frenzy">
 
-// todo write description
-// todo add mana graph
+The vampire has a special and unique mana bar.
+The bar does not hold normal mana but blood mana.
+Blood mana is the life force of every living being and can be extracted from animals or players. 
+
+This mana will not regenerate naturally and must be farmed, but it has a cap that is `3x` that of normal mana.
+
+<img src="graph_vampire_blood_mana.png" alt="graph_vampire_blood_mana" title="Vampire blood mana"/>
+
+When inflicting damage, the blood mana bar will be filled up by an amount equivalent to `10%` of the damage dealt.
+For instance, dealing `5` damage to an entity will fill up the blood mana bar by `0.5` mana.
+Some entities will not fill the mana bar up at all, such as non-living entities, armor stands, boats, etc.
+If the vampire dies, all their blood mana will be lost.
 
 </chapter>
 
 <chapter title="Transmutation">
 
 // todo add image
-// todo write description
+
+Vampires can also transform into a bat.
+This transformation is done by right-clicking a coal block and can be undone by left-clicking in the air.
+
+A vampire bat cannot fly higher than `20` blocks above the ground.
 
 </chapter>
 
